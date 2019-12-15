@@ -25,7 +25,7 @@ Atmega1284
 2 Buttons
 Potentiometer
 
-### User Guide
+## User Guide
 
 There are 2 buttons on the breadboard, the button on the left is to move selection on the 16 x 02 LCD Screen, the right button is to Select the selection you are on. For example on the main screen you can press the left Button to pick between Sketch or View, then chose that selection by pressing the button to the right of the LCD.
 
@@ -33,10 +33,10 @@ Sketch has multiple functionalities, Move, Draw, Delete, Save, Exit. When the se
 
 View Selection allows the user to view their saved files from S1, S2, S3, S4. Using the change selection button and Select button, user can select between save files and load the one they want. 
 
-#### Link To Video
+## Link To Video
 
 https://youtu.be/yTozSoyTcqY
 
-##### Future Work:
+## Future Work:
 
 I want to continue developing the Sketchboard by creating a better Menu interface, and an easier and a much faster way to select options, because right now you have to toggle through many options to get to one. Next thing I would do it, introduce more saving options, so that a person could save a file they are working on and load up a drawing and continue with that drawing. Also an auto save functionality, so that if someone forgets to save, and turns off the machine, they can revive their work. 
