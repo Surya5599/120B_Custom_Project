@@ -19,13 +19,13 @@ EEPROM, I learned to use the EEPROM library that is already included, and found 
 
 ## Technologies and Components used
 
-Nokia LCD 5110 Screen
-Analog 2 Axis Joystick with button
-16 x 02 LCD Screen
-Atmel Studio 7.0
-Atmega1284
-2 Buttons
-Potentiometer
+- Nokia LCD 5110 Screen
+- Analog 2 Axis Joystick with button
+- 16 x 02 LCD Screen
+- Atmel Studio 7.0
+- Atmega1284
+- 2 Buttons
+- Potentiometer
 
 ## User Guide
 
