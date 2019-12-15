@@ -33,7 +33,12 @@ There are 2 buttons on the breadboard, the button on the left is to move selecti
 
 Sketch has multiple functionalities, Move, Draw, Delete, Save, Exit. When the selection icon is on the move, the user is able to move the cursor on the Nokia LCD anywhere on the screen using the joystick as a controller. User can press the button on the left of the 16x02, to switch the selection to Draw, in which, the user can draw on the cursor by moving the joystick. Delete selection will remove the drawing, where the cursor goes, so if user makes an error they can fix it but using Delete Selection. When on the Save functionality user can press the Select button, to save their current drawing in to 4 selections S1, S2, S3, S4. Exit can take the user back to the previous screen. 
 
-View Selection allows the user to view their saved files from S1, S2, S3, S4. Using the change selection button and Select button, user can select between save files and load the one they want. 
+View Selection allows the user to view their saved files from S1, S2, S3, S4. Using the change selection button and Select button, user can select between save files and load the one they want.
+
+## Breadbaord Wiring and Configuration  
+![GitHub Logo](/images/Atmega To Hardware Connections.png)
+
+![Github Logo](/images/Breadboard Configuration.JPG)
 
 ## Link To Video
 
