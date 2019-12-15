@@ -38,7 +38,7 @@ View Selection allows the user to view their saved files from S1, S2, S3, S4. Us
 ## Breadbaord Wiring and Configuration  
 ![GitHub Logo](/images/connections.png)
 
-![Github Logo](/images/config.JPG)
+![Github Logo](/images/config.png)
 
 ## Link To Video
 
