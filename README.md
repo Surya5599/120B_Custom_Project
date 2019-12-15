@@ -1,4 +1,6 @@
-# Introduction
+# SKETCHBOARD EMBEDDED SYSTEMS
+
+## Introduction
 
 In this project, I will be making a SketchBoard/Etch-A-Sketch. The functionality of this board is that a user is able to sketch, save, and view a drawing. The sketching involves being able to move anywhere on the board(screen), draw anywhere and erase any part that the user would like.
 
