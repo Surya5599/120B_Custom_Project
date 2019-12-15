@@ -36,9 +36,9 @@ Sketch has multiple functionalities, Move, Draw, Delete, Save, Exit. When the se
 View Selection allows the user to view their saved files from S1, S2, S3, S4. Using the change selection button and Select button, user can select between save files and load the one they want.
 
 ## Breadbaord Wiring and Configuration  
-![GitHub Logo](/images/Atmega To Hardware Connections.png)
+![GitHub Logo](/images/connections.png)
 
-![Github Logo](/images/Breadboard Configuration.JPG)
+![Github Logo](/images/config.JPG)
 
 ## Link To Video
 
